@@ -13,6 +13,7 @@
 		D6B597291D06CEDD005FFB7E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6B597271D06CEDD005FFB7E /* Main.storyboard */; };
 		D6B5972B1D06CEDD005FFB7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6B5972A1D06CEDD005FFB7E /* Assets.xcassets */; };
 		D6B5972E1D06CEDD005FFB7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6B5972C1D06CEDD005FFB7E /* LaunchScreen.storyboard */; };
+		D6B597371D06D29A005FFB7E /* NewViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D6B597361D06D29A005FFB7E /* NewViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		D6B5972A1D06CEDD005FFB7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6B5972D1D06CEDD005FFB7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6B5972F1D06CEDD005FFB7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6B597351D06D29A005FFB7E /* NewViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewViewController.h; sourceTree = "<group>"; };
+		D6B597361D06D29A005FFB7E /* NewViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				D6B5972C1D06CEDD005FFB7E /* LaunchScreen.storyboard */,
 				D6B5972F1D06CEDD005FFB7E /* Info.plist */,
 				D6B5971E1D06CEDD005FFB7E /* Supporting Files */,
+				D6B597351D06D29A005FFB7E /* NewViewController.h */,
+				D6B597361D06D29A005FFB7E /* NewViewController.m */,
 			);
 			path = Just;
 			sourceTree = "<group>";
@@ -153,6 +158,7 @@
 				D6B597261D06CEDD005FFB7E /* ViewController.m in Sources */,
 				D6B597231D06CEDD005FFB7E /* AppDelegate.m in Sources */,
 				D6B597201D06CEDD005FFB7E /* main.m in Sources */,
+				D6B597371D06D29A005FFB7E /* NewViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
