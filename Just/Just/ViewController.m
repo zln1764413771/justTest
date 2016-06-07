@@ -21,6 +21,7 @@
     NSLog(@"222222");
     NSLog(@"333333");
     NSLog(@"444444");
+    NSLog(@"666666");
 }
 
 - (void)didReceiveMemoryWarning {
